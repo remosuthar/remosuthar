@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @remosuthar
-- 👀 I’m interested in Web Dsigning
+- 👀 I’m interested in Web Designing
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on Front End Developement
 - 📫 How to reach me ...
