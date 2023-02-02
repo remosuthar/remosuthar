@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @remosuthar
-- 👀 I’m interested in Web Designing
+- 👀 I’m interested in Web Development
 - 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on Front End Developement
+- 💞️ I’m looking to collaborate on Back-End Developement
 - 📫 How to reach me ...
 Instagram: the_remo_suthar
 <!---
